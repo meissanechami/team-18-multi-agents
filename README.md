@@ -3,4 +3,4 @@
 
 This coursework is the result of the efforts of Pavlos Charalambides, Isaac Kamlish and Meissane Chami. All questions have been attempted using Python. 
 
-NB: The we_data forlder contains the preprocessed dataset since the actual files sizes are above limitations set by GitHub.
+NB: The we_data folder contains the preprocessed dataset since the actual files sizes are above limitations set by GitHub.
